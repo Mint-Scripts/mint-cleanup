@@ -12,5 +12,5 @@ client_script {
 }
 
 server_script {
-    'server/sl_*.lua',
+    'server/sv_*.lua',
 }
